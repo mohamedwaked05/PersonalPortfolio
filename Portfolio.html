@@ -1,9 +1,11 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MoePortfolio</title>
     <link rel="stylesheet" href="Portfolio.css">
+    
     <!-- font awesome cdn font icon css -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
@@ -22,20 +24,20 @@
                     <span></span>
                 </div>
                 <ul class="navlinks">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Portfolio</a></li>
-                        <li><a href="#">Resume</a></li>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#portfolio">Portfolio</a></li>
+                        <li><a href="#resume">Resume</a></li>
+                        <li><a href="#blog">Blog</a></li>
+                        <li><a href="#contact">Contact</a></li>
                 </ul>
                 </nav>
         </header>
         <div class="container">
             <div class="hero-pic">
-                <img src="sexymoe.jpg" alt="profile pic">
+                <img src="sexymeo.jpg" alt="profile pic">
             </div>
             <div class="hero-text">
-                <h5>Hi I'm <span class="">Backend Developer</span></h5>
+                <h5>Hi I'm <span class="input">Backend Developer</span></h5>
                 <h1>Mohamad Waked</h1>
                 <p>I'm a backend developer with a passion for creating efficient and scalable web applications. I specialize in building robust server-side solutions that power modern web experiences.</p>
                 <div class="btn-group">
@@ -52,6 +54,24 @@
             </div>
         </div>
     </div>
-</div>  
+</div> 
+<!-- typed js for typing text effect -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.10/typed.min.js"></script> 
+<script>
+    var togglebtn=document.querySelector('.togglebtn');
+var nav=document.querySelector('.navlinks');
+var links=document.querySelector('.navlinks li ');
+togglebtn.addEventListener('click',function()
+{
+    this.classList.toggle('click');
+    nav.classList.toggle('open');
+})
+var typed=new Typed(".input",{
+    strings:["Backend Developer","Web Developer"],
+    typedspeed:70,
+    backSpeed:55,
+    loop:true
+})
+</script>
 </body>
 </html>

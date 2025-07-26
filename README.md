@@ -1,30 +1,40 @@
-# Personal Portfolio 🚀
+# MoePortfolio
 
-This is my personal portfolio website project. It's currently under development, and more updates will be added soon.
+A personal portfolio website for Mohamad Waked, showcasing skills, projects, and contact information.
 
-## 🛠️ Technologies Used
+## Features
 
-- HTML
-- CSS
-- JavaScript (coming soon)
-- [More to be added...]
+- Responsive design for all devices
+- Animated typing effect for job titles
+- Burger menu for mobile navigation
+- Social media icons
 
-## 📁 Files Included
+## Technologies Used
 
-- `Portfolio.html`: Main structure of the site.
-- `Portfolio.css`: Styling for the portfolio.
-- `sexymoe.jpg`: Placeholder image for profile or background.
-- `.vscode/`: VS Code config files.
+- HTML5
+- CSS3
+- JavaScript
+- [Font Awesome](https://fontawesome.com/)
+- [Typed.js](https://mattboldt.com/demos/typed-js/)
 
-## 🚧 Status
+## Current Status
 
-🚧 **Work in Progress**  
-This project is still being built. Stay tuned for more updates as I add animations, responsive design, and more sections.
+- **Navigation links** and **Download CV** button are placeholders and do not lead to actual sections or files yet.
+- Social media icons do not link to real profiles.
+- The CV file (`cv.pdf`) is not included yet.
 
-## 🌐 Live Demo
+## Getting Started
 
-> (Will be added when deployed)
+1. Clone or download this repository.
+2. Open `Portfolio.html` in your browser.
+3. Make sure `Portfolio.css` and your profile image (`sexymoe.jpg`) are in the same directory.
 
----
+## Customization
 
-Feel free to clone or fork once it's published! 🙂
+- Update your name, job titles, and about section in `Portfolio.html`.
+- Replace `sexymoe.jpg` with your own profile picture.
+- Edit navigation links, social links, and add your real CV file when ready.
+
+## License
+
+This project is for personal use. Feel free to modify and use as inspiration for your
