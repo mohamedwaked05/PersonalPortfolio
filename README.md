@@ -1,4 +1,4 @@
-# MoePortfolio
+# MhmdWakedPortfolio
 
 A personal portfolio website for Mohamad Waked, showcasing skills, projects, and contact information.
 
@@ -19,9 +19,8 @@ A personal portfolio website for Mohamad Waked, showcasing skills, projects, and
 
 ## Current Status
 
-- **Navigation links** and **Download CV** button are placeholders and do not lead to actual sections or files yet.
-- Social media icons do not link to real profiles.
-- The CV file (`cv.pdf`) is not included yet.
+- **Navigation links** do not lead to actual sections .
+
 
 ## Getting Started
 
