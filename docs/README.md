@@ -4,7 +4,7 @@ A personal portfolio website for Mohamad Waked, showcasing skills, projects, and
 
 ## Features
 
-- Responsive design for all devices
+- Responsive design for all devices (ongoing)
 - Animated typing effect for job titles
 - Burger menu for mobile navigation
 - Social media icons
@@ -19,7 +19,7 @@ A personal portfolio website for Mohamad Waked, showcasing skills, projects, and
 
 ## Current Status
 
-- **Navigation links** do not lead to actual sections .
+- **Navigation links** do not lead to actual sections **responsive** still ongoing.
 
 
 ## Getting Started
