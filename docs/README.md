@@ -4,9 +4,7 @@ A personal portfolio website for Mohamad Waked, showcasing skills, projects, and
 
 ## Features
 
-- Responsive design for all devices
 - Animated typing effect for job titles
-- Burger menu for mobile navigation
 - Social media icons
 
 ## Technologies Used
@@ -16,10 +14,6 @@ A personal portfolio website for Mohamad Waked, showcasing skills, projects, and
 - JavaScript
 - [Font Awesome](https://fontawesome.com/)
 - [Typed.js](https://mattboldt.com/demos/typed-js/)
-
-## Current Status
-
-- **Navigation links** do not lead to actual sections .
 
 
 ## Getting Started
